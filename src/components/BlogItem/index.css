@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.eachPostContainerItem {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.titleTimeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
